@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/800px-Real_Madrid_CF.svg.png"
+    },
+    {
+        "id": 2,
+        "name": "Barcelona",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1024px-FC_Barcelona_%28crest%29.svg.png"
+    }, 
+    {
+        "id": 3,
+        "name": "Manchester United",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/330px-Manchester_United_FC_crest.svg.png"
+    },
+    {
+        "id": 4,
+        "name": "Chelsea",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/300px-Chelsea_FC.svg.png"
+    },
+    {
+        "id": 5,
+        "name": "Arsenal",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/270px-Arsenal_FC.svg.png"
+    },
+    {
+        "id": 6,
+        "name": "Bayern Munich",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/330px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png"
+    },
+    {
+        "id": 7,
+        "name": "Juventus",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Juventus_FC_2017_logo.svg/165px-Juventus_FC_2017_logo.svg.png"
+    },
+    {
+        "id": 8,
+        "name": "Paris Saint Germain",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/300px-Paris_Saint-Germain_F.C..svg.png"
+    },
+    {
+        "id": 9,
+        "name": "River Plate",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Escudo_River_Plate_Football_Club.png/180px-Escudo_River_Plate_Football_Club.png"
+    },
+    {
+        "id": 10,
+        "name": "Santos",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Santos_logo.svg/300px-Santos_logo.svg.png"
+    },
+    {
+        "id": 11,
+        "name": "Boca Juniors",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/225px-Boca_Juniors_logo18.svg.png"
+    },
+    {
+        "id": 12,
+        "name": "Orlando City",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Orlando_City_2014.svg/225px-Orlando_City_2014.svg.png"
+    }
+]
