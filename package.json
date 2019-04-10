@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   },
   "repository": {
     "type": "git",
@@ -15,8 +19,11 @@
   "bugs": {
     "url": "https://github.com/jslzr27/Clicky-Game/issues"
   },
-  "homepage": "https://github.com/jslzr27/Clicky-Game#readme",
+  "homepage": "https://jslzr27.github.io/Clicky-Game/",
   "dependencies": {
-    "create-react-app": "^2.1.8"
+    "create-react-app": "^2.1.8",
+    "gh-pages": "^2.0.1",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^2.1.8"
   }
 }
